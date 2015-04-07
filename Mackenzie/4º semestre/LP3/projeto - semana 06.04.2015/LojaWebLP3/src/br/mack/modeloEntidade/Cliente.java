@@ -1,6 +1,6 @@
 package br.mack.modeloEntidade;
 
-/**
+/** 
  *
  * @author 31358535
  */
